@@ -1,0 +1,65 @@
+.places {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 98px;
+}
+
+.places__title {
+  margin: 0 auto 20px auto;
+  font-size: 48px;
+  font-family: "Gilroy", sans-serif;
+  letter-spacing: -3px;
+}
+
+.places__subtitle {
+  margin: 0 auto 84px auto;
+  max-width: 468px;
+  font-size: 19px;
+  font-family: "Gilroy", sans-serif;
+  font-weight: 100;
+}
+
+.places__popular {
+  margin: 0;
+  display: flex;
+  column-gap: 40px;
+}
+
+.places__content {
+  max-width: 469px;
+}
+
+.places__images {
+  margin: 0;
+  margin-bottom: 35px;
+}
+
+.place__images_size {
+  max-height: 570px;
+  margin: 0;
+  z-index: -1;
+}
+
+.places__location {
+  margin: 0;
+  margin-bottom: 3px;
+  font-size: 24px;
+  font-family: "Gilroy", sans-serif;
+  font-weight: bold;
+}
+
+.places__location_margin {
+  margin: 0;
+  margin-top: -25px;
+}
+
+.places__seats {
+  margin: 0;
+  font-size: 17px;
+  font-family: "Gilroy", sans-serif;
+  font-weight: 100;
+  color: gray;
+  padding-bottom: 129px;
+}

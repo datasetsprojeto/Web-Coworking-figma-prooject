@@ -1,0 +1,17 @@
+.nav {
+  margin: 0 auto;
+  max-width: 1110px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav__links {
+  display: flex;
+  column-gap: 40px;
+  list-style-type: none;
+}
+
+.nav__link {
+color: #fff ;
+text-decoration: none;
+}

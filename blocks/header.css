@@ -1,0 +1,64 @@
+.header {
+  position: relative;
+  background-image: url("../image/austin-distel-unsplash.png");
+  background-color: #161C2D;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header__content {
+  margin: 0 auto;
+  margin-top: 237px;
+  text-align: center;
+  color: #fff;
+}
+
+.header__title {
+  max-width: 250px;
+  margin: 0 auto;
+  color: black;
+  box-shadow: 1px 1px 1px rgb(22, 20, 20, 0.8);
+  font-family: "Beiruti", sans-serif;
+  font-size: 13px;
+  margin-bottom: 20px;
+}
+
+.header__subtitle {
+  max-width: 650px;
+  margin: 0 auto;
+  font-size: 50px;
+  margin-bottom: 30px;
+  font-family: 'Gilroy', sans-serif;
+}
+
+.header__video {
+  max-height: 29px;
+  margin: 0 auto;
+  justify-content: center;
+  display: flex;
+  column-gap: 11px;
+  margin-bottom: 150px;
+}
+
+.header__video-icon {
+  margin: 0;
+  width: 16px;
+}
+
+.header__video-text {
+  margin: auto 0;
+  color: #c6c3c3;
+  font-size: 13px;
+}
+
+.header__icon {
+  width: 40px;
+  height: 40px;
+}
+
+.header__icon-link {
+  display: block;
+  text-align: center;
+  padding-bottom: 40px;
+}

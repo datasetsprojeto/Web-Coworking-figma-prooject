@@ -1,0 +1,49 @@
+.features {
+  margin: 0 auto;
+ max-width: 1105px;
+}
+
+.features__blocks {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 34px;
+}
+
+.features__block {
+  margin: 0;
+  max-width: 345px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 118px;
+  column-gap: 32px;
+}
+
+.features__icon {
+  margin: 0;
+  width: 35px;
+  height: 40px;
+}
+
+.features__texts {
+  margin: 0;
+}
+
+.features__title {
+  margin: 0;
+  font-size: 21px;
+  font-family: "Gilroy", sans-serif;
+  font-weight: bold;
+  margin-bottom: 17px;
+}
+
+.features__description {
+  margin: 0;
+  max-width: 278px;
+  font-size: 17px;
+  font-family: "Gilroy", sans-serif;
+  font-weight: 500;
+  color: rgb(162, 161, 161);
+  line-height: 32px;
+}

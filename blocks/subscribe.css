@@ -1,0 +1,70 @@
+.subscribe {
+  margin: 0;
+  max-width: 527px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.subscribe__title {
+  padding-top: 114px;
+  margin: 0 auto;
+  font-size: 48px;
+  font-family: "Gilroy", sans-serif;
+  font-weight: bold;
+  line-height: 58px;
+  letter-spacing: -1.8px;
+  margin-bottom: 16px;
+}
+
+.subscribe__subtitle {
+  margin: 0;
+  max-width: 500px;
+  font-size: 19px;
+  font-family: "Gilroy", sans-serif;
+  font-weight: 300;
+  line-height: 32px;
+  color: gray;
+  margin-bottom: 32px;
+}
+
+#email {
+  width: 358px;
+  height: 59px;
+  margin: 0 auto;
+  display: block;
+  border: 1px solid rgb(239, 238, 238);
+  margin-bottom: 10px;
+  border-radius: 10px;
+  font-size: 17px;
+  font-family: "Gilroy", sans-serif;
+  font-weight: 300;
+  line-height: 29px;
+  padding-left: 10px;
+}
+
+.subscribe__button {
+  margin: 0;
+  background-color: #473bf0;
+  width: 368px;
+  height: 59px;
+  color: white;
+  margin-bottom: 24px;
+  border-radius: 10px;
+  border: none;
+  font-size: 17px;
+  font-family: "Gilroy", sans-serif;
+  font-weight: bold;
+  line-height: 32px;
+}
+
+.subscribe__text {
+  margin: 0 auto;
+  max-width: 350px;
+  font-size: 15px;
+  font-family: "Gilroy", sans-serif;
+  font-weight: 300;
+  line-height: 26px;
+  color: gray;
+  padding-bottom: 114px;
+}
+

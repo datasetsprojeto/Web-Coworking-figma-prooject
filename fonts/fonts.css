@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Gilroy';
+  font-style: normal;
+  src: local('Gilroy'), url('../../vendor/fonts/gilroy-extrabold.otf') format('truetype');
+}
+
+.h {
+  font-family: 'Gilroy', serif;
+  font-size: 48px;
+  font-weight: 300;
+
+}
